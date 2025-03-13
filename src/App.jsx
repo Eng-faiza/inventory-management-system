@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from './Pages/Home';
-import Employees from './Pages/employees';
+import Employees from './Pages/Employees';
 import SideHeader from './Pages/Side&header'; 
 import Product from "./Pages/Product";
 import Users from "./Pages/Users";
