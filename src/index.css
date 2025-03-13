@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+body{
+    background-color: rgb(250, 247, 247);
+    overflow-x: scroll;
+    text-transform: capitalize;
+
+}
+/* tr{
+    margin-top: 20px;
+} */
